@@ -1,0 +1,1 @@
+Simple framework for automating site testing. The project is developed using java, selenium webdriver and page object pattern
